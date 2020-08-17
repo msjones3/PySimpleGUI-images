@@ -21,7 +21,7 @@ Python files
 You are to use the resources that are found on this [Canvas Page](https://slas.instructure.com/courses/914/pages/images)
 These images can also be found in this [github repository](https://github.com/msjones3/images.git)
 
-**CHALLENGE 1**: Can you create a Heads or Tails coin flipper?/n
+**CHALLENGE 1**: Can you create a Heads or Tails coin flipper?\
 **CHALLENGE 2**: Can you create a random Card Draw app?
 
 
